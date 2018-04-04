@@ -1,0 +1,41 @@
+{
+  "name": "thorjs",
+  "version": "1.0.0",
+  "description": "Manage your cookies with es6 !",
+  "homepage": "https://github.com/brandonsueur/CookieJS#readme",
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "javascript",
+    "es6",
+    "front-end",
+    "cookie",
+    "cookies"
+  ],
+  "author": {
+    "name": "Brandon Sueur",
+    "email": "gynidark@gmail.com",
+    "url": "https://brandonsueur.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonsueur/CookieJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonsueur/CookieJS/issues",
+    "email": "gynidark@gmail.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.25.0",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^4.3.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-es6-module-transpiler": "^0.2.2",
+    "gulp-optimize-js": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8"
+  }
+}
